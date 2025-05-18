@@ -5,7 +5,8 @@ An interactive deep learning-based system to retrieve visually similar images us
 
 ---
 
-<img src="web-app.png" alt="App Screenshot" width="100%" />
+![App Screenshot](web-app.png)
+
 
 ---
 
