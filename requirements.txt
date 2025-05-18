@@ -1,0 +1,17 @@
+# Core packages
+torch>=1.13.0
+torchvision>=0.14.0
+numpy>=1.23.0
+pillow>=9.0.0
+faiss-cpu>=1.7.3  # Use faiss-gpu if you need GPU support
+streamlit>=1.22.0
+tqdm>=4.65.0
+scikit-learn>=1.2.2
+
+# Optional (used in Colab training or display)
+matplotlib>=3.7.0
+requests>=2.28.0
+
+# For web interaction and visualizations
+json5  # Only needed if you work with complex JSON
+
