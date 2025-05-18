@@ -5,7 +5,7 @@ An interactive deep learning-based system to retrieve visually similar images us
 
 ---
 
-![App Screenshot](./web-app.png)
+[App Screenshot](./web-app.png)
 
 ---
 
@@ -99,16 +99,11 @@ App will open in your browser where you can upload images and see results.
 ## 🙋‍♂️ Author
 
 **Soham Mankar**  
-🔗 [LinkedIn](https://www.linkedin.com/in/sohammankar)  
+🔗 [LinkedIn](https://www.linkedin.com/in/soham-mankar-12675a18b/) 
 📂 [GitHub](https://github.com/sohammankar)
 
 ---
 
-## 📎 Working Screenshot
-
-![App Screenshot](./web-app.png)
-
----
 
 ## ⭐️ Show Your Support
 
